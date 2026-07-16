@@ -29,7 +29,7 @@
 
         .applynow{
             padding:15px 35px;
-    background:#0d47a1;
+    background:#b83c78;
     color:#fff;
     border:none;
     border-radius:8px;
@@ -41,6 +41,7 @@
             scale: 1.2;
             cursor: pointer;
         }
+
         .hero{
     width:100%;
     min-height:90vh;
@@ -357,3 +358,7 @@
     font-size: 13px;
   }
 }
+
+
+
+
