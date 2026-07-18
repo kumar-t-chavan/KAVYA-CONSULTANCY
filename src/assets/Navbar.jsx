@@ -2,7 +2,9 @@ import React from "react";
 import kavya from './Images/kavya.jpeg'
 import { Link } from "react-router-dom";
 
+
 const Navbar = () => {
+  
   return (
     <header>
       <nav className="navbar">
@@ -26,7 +28,10 @@ const Navbar = () => {
 
       </nav>
     </header>
+   
   );
 };
+
+
 
 export default Navbar;
