@@ -7,21 +7,10 @@ const slides = [
   {
     image: slide1,
     title: "KAVYA",
-    subtitle: "SOURCING CONSULTANCY",
+    subtitle: "SOURCING CONSULATANCY",
     desc: "Connecting Talent with the Right Opportunities.",
   },
-  {
-   
-    title: "WE HIRE",
-    subtitle: "TOP TALENT",
-    desc: "Professional Recruitment Solutions for Every Industry.",
-  },
-  {
-  
-    title: "YOUR DREAM",
-    subtitle: "CAREER STARTS HERE",
-    desc: "Find the right job with Kavya Sourcing Consultancy.",
-  },
+
 ];
 
 export default function Hero() {

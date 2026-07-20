@@ -9,23 +9,23 @@ const Mainsection = () => {
             <div className='mainsection'>
         <div className='box'>
             <img src={IT} alt="" height={50} width={50}/>
-            <h1>IT HIRING</h1>
-            <p>Skilled IT professionals for your IT needs</p>
+            <h1>DATA INDEXER</h1>
+            <p>Organizes, verifies, and indexes medical or business data accurately into digital system.</p>
         </div>
            <div className='box'>
             <img src={IT} alt="" height={50} width={50}/>
-            <h1>IT HIRING</h1>
-            <p>Skilled IT professionals for your IT needs</p>
+            <h1>DATA ENTRY OPERATOR</h1>
+            <p>Enters and updates information in databases with high accuracy.</p>
         </div>
            <div className='box'>
             <img src={IT} alt="" height={50} width={50}/>
-            <h1>IT HIRING</h1>
-            <p>Skilled IT professionals for your IT needs</p>
+            <h1>MEDICAL CODER</h1>
+            <p>Converts medical records into standardized diagnosis and procedure codes.</p>
         </div>
            <div className='box'>
             <img src={IT} alt="" height={50} width={50}/>
-            <h1>IT HIRING</h1>
-            <p>Skilled IT professionals for your IT needs</p>
+            <h1>QUALITY ANALYST (QA)</h1>
+            <p>Review data and processes to ensure accuracy and maintain quality standards</p>
         </div>
             </div>
         </main>
