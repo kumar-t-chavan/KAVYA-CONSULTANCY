@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from './Hero'
-import Mainsection from './mainsection'
+import Mainsection from './Mainsection'
 import Team from './Team'
 import Footer from './Footer'
 const Navbar1 = () => {
