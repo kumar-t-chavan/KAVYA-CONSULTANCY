@@ -7,7 +7,7 @@ const slides = [
   {
     image: slide1,
     title: "KAVYA",
-    subtitle: "SOURCING CONSULATANCY",
+    subtitle: "CONSULATANCY SERVICES",
     desc: "Connecting Talent with the Right Opportunities.",
   },
 
